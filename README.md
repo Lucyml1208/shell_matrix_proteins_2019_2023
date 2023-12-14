@@ -2,38 +2,42 @@ File list:
 1.	shell_matrix_proteome_2019_2023.fasta  A biomineral proteomics dataset containing available shell matrix proteomes reported from 2019 to 2023. The dataset encompassed a total of 1,064 SMP sequences from 16 species across the phyla Anthozoa, Mollusca, Arthropoda and Polychaeta.
 2.	SMP_2019_2023_anno.xlsx  An annotation file of SMP sequences in the biomineralized proteome dataset from 2019 to 2023.
 3.	List of biomineralized proteomes from 2019 to 2023 used to construct the SMPs database
-Phylum	Species	The number of SMPs in skeleton	referrence
-Anthozoa	Tubipora musica	12	(Conci et al., 2020) 
+Species	The number of SMPs in skeleton	referrence
+Anthozoa
+Tubipora musica	12	(Conci et al., 2020) 
 
-	       Sinularia cf. cruciata	42	(Conci et al., 2020)
+Sinularia cf. cruciata	42	(Conci et al., 2020)
 
-	       Heliopora coerulea	11	(Conci et al., 2020)
+Heliopora coerulea	11	(Conci et al., 2020)
 
-	       Montipora digitata	22	(Conci et al., 2020)
+ Montipora digitata	22	(Conci et al., 2020)
 
-    	   Corallium_rubrum	110	(Le Roy et al., 2021)
+ Corallium_rubrum	110	(Le Roy et al., 2021)
 
-Mollusca	Tridacna crocea	39	(Takeuchi et al., 2021)
+Mollusca	
+Tridacna crocea	39	(Takeuchi et al., 2021)
 
-	        Crepidula fornicata	185	(Batzel et al., 2022)
+Crepidula fornicata	185	(Batzel et al., 2022)
 
-	        Perna viridis	376	(Liao et al., 2019)
+Perna viridis	376	(Liao et al., 2019)
 
-	       Pomacea canaliculata	34	(Liu et al., 2023b)
+Pomacea canaliculata	34	(Liu et al., 2023b)
 
-        	Cipangopaludina chinensis	28	(Liu et al., 2023b)
+Cipangopaludina chinensis	28	(Liu et al., 2023b)
 
-      	Sepia pharaonis	40	(Liu et al., 2023a)
+Sepia pharaonis	40	(Liu et al., 2023a)
 
-	       Nautilus pompilius	47	(Setiamarga et al., 2021)
+Nautilus pompilius	47	(Setiamarga et al., 2021)
 
-	       Spirula spirula	23	(Oudot et al., 2020)
+Spirula spirula	23	(Oudot et al., 2020)
 
-	       Mytilus edulis	49	(Carini et al., 2019)
+Mytilus edulis	49	(Carini et al., 2019)
 
-Arthropoda	mantis shrimp	11	(Amini et al., 2019)
+Arthropoda	
+mantis shrimp	11	(Amini et al., 2019)
 
-Polychaeta	Paraescarpia echinospica	35	(Sun et al., 2021)
+Polychaeta	
+Paraescarpia echinospica	35	(Sun et al., 2021)
 
 
 Reference
