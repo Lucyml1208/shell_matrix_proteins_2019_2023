@@ -4,6 +4,7 @@ File list:
 3.	List of biomineralized proteomes from 2019 to 2023 used to construct the SMPs database
    
 Species	The number of SMPs in skeleton	referrence
+
 Anthozoa Tubipora musica	12	(Conci et al., 2020) 
 
 Sinularia cf. cruciata	42	(Conci et al., 2020)
