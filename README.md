@@ -3,8 +3,7 @@ File list:
 2.	SMP_2019_2023_anno.xlsx  An annotation file of SMP sequences in the biomineralized proteome dataset from 2019 to 2023.
 3.	List of biomineralized proteomes from 2019 to 2023 used to construct the SMPs database
 Species	The number of SMPs in skeleton	referrence
-Anthozoa
-Tubipora musica	12	(Conci et al., 2020) 
+Anthozoa Tubipora musica	12	(Conci et al., 2020) 
 
 Sinularia cf. cruciata	42	(Conci et al., 2020)
 
@@ -14,8 +13,7 @@ Heliopora coerulea	11	(Conci et al., 2020)
 
  Corallium_rubrum	110	(Le Roy et al., 2021)
 
-Mollusca	
-Tridacna crocea	39	(Takeuchi et al., 2021)
+Mollusca	Tridacna crocea	39	(Takeuchi et al., 2021)
 
 Crepidula fornicata	185	(Batzel et al., 2022)
 
@@ -33,11 +31,9 @@ Spirula spirula	23	(Oudot et al., 2020)
 
 Mytilus edulis	49	(Carini et al., 2019)
 
-Arthropoda	
-mantis shrimp	11	(Amini et al., 2019)
+Arthropoda	mantis shrimp	11	(Amini et al., 2019)
 
-Polychaeta	
-Paraescarpia echinospica	35	(Sun et al., 2021)
+Polychaeta	Paraescarpia echinospica	35	(Sun et al., 2021)
 
 
 Reference
