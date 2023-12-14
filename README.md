@@ -39,6 +39,7 @@ Paraescarpia echinospica	35	(Sun et al., 2021)
 
 
 Reference
+
 Amini, S., Tadayon, M., Loke, J.J., Kumar, A., Kanagavel, D., Le Ferrand, H., Duchamp, M., Raida, M., Sobota, R.M., Chen, L., Hoon, S., Miserez, A., 2019. A diecast mineralization process forms the tough mantis shrimp dactyl club. Proceedings of the National Academy of Sciences 116, 8685-8692.
 Batzel, G.O., Moreno, B.K., Lopez, L.S., Nguyen, C.K., Livingston, B.T., Joester, D., Lyons, D.C., 2022. Proteomic and Transcriptomic Analyses in the Slipper Snail Crepidula fornicata Uncover Shell Matrix Genes Expressed During Adult and Larval Biomineralization. Integrative Organismal Biology 4, obac023.
 Carini, A., Koudelka, T., Tholey, A., Appel, E., Gorb, S.N., Melzner, F., Ramesh, K., 2019. Proteomic investigation of the blue mussel larval shell organic matrix. Journal of Structural Biology 208, 107385.
