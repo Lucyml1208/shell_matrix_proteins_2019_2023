@@ -2,6 +2,7 @@ File list:
 1.	shell_matrix_proteome_2019_2023.fasta  A biomineral proteomics dataset containing available shell matrix proteomes reported from 2019 to 2023. The dataset encompassed a total of 1,064 SMP sequences from 16 species across the phyla Anthozoa, Mollusca, Arthropoda and Polychaeta.
 2.	SMP_2019_2023_anno.xlsx  An annotation file of SMP sequences in the biomineralized proteome dataset from 2019 to 2023.
 3.	List of biomineralized proteomes from 2019 to 2023 used to construct the SMPs database
+   
 Species	The number of SMPs in skeleton	referrence
 Anthozoa Tubipora musica	12	(Conci et al., 2020) 
 
